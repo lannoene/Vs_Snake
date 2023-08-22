@@ -1,0 +1,1 @@
+void frameCap_DelayNextFrame(void);
